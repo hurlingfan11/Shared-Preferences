@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shared-Preferences</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="submit">LOGIN:</string>
+    <string name="checkbox_text">Remember my logon information</string>
+
+    <string name="checkbox">com.clancy.conor.shared_preferences.checkbox</string>
+    <string name="name">com.clancy.conor.shared_preferences.name</string>
+    <string name="password">com.clancy.conor.shared_preferences.password</string>
+</resources>
